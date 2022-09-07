@@ -6,7 +6,7 @@
   <link href="https://acgnliu.github.io/atom.xml" rel="self"/>
   
   <link href="https://acgnliu.github.io/"/>
-  <updated>2022-09-04T16:29:37.380Z</updated>
+  <updated>2022-09-07T15:14:41.928Z</updated>
   <id>https://acgnliu.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python-随笔</title>
+    <link href="https://acgnliu.github.io/posts/2ec3f13d.html"/>
+    <id>https://acgnliu.github.io/posts/2ec3f13d.html</id>
+    <published>2022-09-07T14:40:27.000Z</published>
+    <updated>2022-09-07T15:14:41.928Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip ban faa-flash animated"><p>为了缓解心情，简单写一篇python基础内容 </p></div><div class="tip warning faa-horizontal animated"><p>突然不想写了 ，笑哭 </p></div><div class="tip warning faa-horizontal animated-hover"><p>第一个知识点：编程基础那点事 </p></div><div class="tip ban faa-parent animated-hover"><p class="faa-flash"> 悄悄加一句： 标题是抄的 </p></div><div class='wow animate__zoomIn' data-wow-duration='5s' data-wow-delay='5s' data-wow-offset='100'  data-wow-iteration='10' ><div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p>主要介绍一下python中的基础语法</p></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip ban faa-flash animated&quot;&gt;&lt;p&gt;为了缓解心情，简单写一篇python基础内容 &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tip warning faa-horizontal animated&quot;&gt;&lt;p&gt;突然不想写了 ，笑哭</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇文章</title>
