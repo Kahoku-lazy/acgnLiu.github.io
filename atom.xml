@@ -6,7 +6,7 @@
   <link href="https://acgnliu.github.io/atom.xml" rel="self"/>
   
   <link href="https://acgnliu.github.io/"/>
-  <updated>2022-09-18T15:29:20.656Z</updated>
+  <updated>2022-09-18T15:42:36.405Z</updated>
   <id>https://acgnliu.github.io/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://acgnliu.github.io/posts/dbff7b3c.html"/>
     <id>https://acgnliu.github.io/posts/dbff7b3c.html</id>
     <published>2022-09-18T15:06:15.000Z</published>
-    <updated>2022-09-18T15:29:20.656Z</updated>
+    <updated>2022-09-18T15:42:36.405Z</updated>
     
-    <content type="html"><![CDATA[<p>实践是检验的最好方法。</p><p>。。。 此文章用于测试  。。。</p>]]></content>
+    <content type="html"><![CDATA[<p>实践是检验的最好方法。</p><p>。。。 此文章用于测试  。。。</p><p>`` bash<br>$ touch CNAME<br>$ echo www.yuming.top<br>```</p><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;实践是检验的最好方法。&lt;/p&gt;
 &lt;p&gt;。。。 此文章用于测试  。。。&lt;/p&gt;
-</summary>
+&lt;p&gt;`` bash&lt;br&gt;$ touch CNAME&lt;br&gt;$ echo www.yuming.top&lt;br&gt;```&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://he</summary>
       
     
     
