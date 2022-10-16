@@ -6,7 +6,7 @@
   <link href="https://acgnliu.github.io/atom.xml" rel="self"/>
   
   <link href="https://acgnliu.github.io/"/>
-  <updated>2022-09-18T15:42:36.405Z</updated>
+  <updated>2022-10-16T09:35:41.912Z</updated>
   <id>https://acgnliu.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Markdown基本语法.md</title>
+    <link href="https://acgnliu.github.io/posts/116d0b7e.html"/>
+    <id>https://acgnliu.github.io/posts/116d0b7e.html</id>
+    <published>2022-10-16T08:48:58.000Z</published>
+    <updated>2022-10-16T09:35:41.912Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Markdown-标题语法"><a href="#Markdown-标题语法" class="headerlink" title="Markdown 标题语法"></a>Markdown 标题语法</h1><p>1、创建标题：在内容最前面添加“#”好就可以创建标题，“#”的数量代表这标题的级别。如下演示,注意书写 # 写这最前面，空一行再添加内容，不需要加双引号。</p><h2 id="“-”二级标题"><a href="#“-”二级标题" class="headerlink" title="“##”二级标题"></a>“##”二级标题</h2><h3 id="“-”三级标题"><a href="#“-”三级标题" class="headerlink" title="“###”三级标题"></a>“###”三级标题</h3><h4 id="“-”四级标题"><a href="#“-”四级标题" class="headerlink" title="“####”四级标题"></a>“####”四级标题</h4><h5 id="“-”五级标题"><a href="#“-”五级标题" class="headerlink" title="“#####”五级标题"></a>“#####”五级标题</h5><p>2、也可以使用“==”创建一级标题，“—”创建二级标题。  </p><h1 id="例如，这是一级标题"><a href="#例如，这是一级标题" class="headerlink" title="例如，这是一级标题"></a>例如，这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>3、段落一： 需要敲两次回车，推荐不要使用空格和制表符缩进段落，最后使用空白行隔开。</p><p>段落二：</p><p>4、换行，在一行的末尾添加两个或多个空格，然后按回车键。<br>也可以使用br来换行。例如：<br><br></p><h1 id="Markdown-强调语法"><a href="#Markdown-强调语法" class="headerlink" title="Markdown 强调语法"></a>Markdown 强调语法</h1><p>0、<em>斜体：</em>在单词前后各添加一个星号“<em>”<br><br>1、<strong>粗体（Bold）：</strong> 在单词前后各添加两个星号“<strong>”就可以讲星号中的内容变为粗体。<br><br>2、</strong></em>斜粗体(ltalic)：<strong><em> 在单词前后各添加加三个星号“</em></strong>”或者三个下划线”<strong><em>“,例如：</em></strong>斜粗体<em>_</em> .<br><br></p><h1 id="Markdown-引用语法"><a href="#Markdown-引用语法" class="headerlink" title="Markdown 引用语法"></a>Markdown 引用语法</h1><p>0、创建块引用，需要在段落前添加一个 <strong>&gt;</strong> <br></p><blockquote><ul><li>这是一个块引用 <br></li><li>第二行不需要添加 <em>&gt;</em><blockquote><p>嵌套的块引用，在段落前添加两个即可 <strong>&gt;&gt;</strong> <br><br>第二行也不需要添加  </p></blockquote></li></ul></blockquote><p>退出按两下回车即可。<br></p><h1 id="Markdown-列表语法"><a href="#Markdown-列表语法" class="headerlink" title="Markdown 列表语法"></a>Markdown 列表语法</h1><p>1、<strong>有序列表</strong>：每段前加上“1.”就可以了，每个列表项前添加数字并紧跟着一个英文句点。数字不用连续但必须以 1 开头。</p><ol><li>有序列表 1</li><li>有序列表 2</li><li>有序列表 3</li></ol><p>2、<strong>无序列表</strong>：在每个列表前添加破折号“-”，星号“*”，加号“+”。缩进一个或多个列表项可创建嵌套列表。</p><ul><li>无序列表 1</li><li>无序列表 2<ul><li>无序列表嵌套 1</li><li>无序列表嵌套 2<br>非无序列表</li></ul></li><li>无序列表 3<br>  非无序列表</li></ul><p>3、<strong>代码块</strong>： 通常采用四个空格或者一个制表符，当结合列表使用时需要八个列表块或两个制表符。</p><pre><code>如这是一个代码块 换行直接回车就可以。</code></pre><p>两下回车退出代码块。</p><ul><li><p>在列表中嵌套代码块</p><pre><code>  例子,同缩进插入图片失败（滑稽）</code></pre><p>  <img src="https://images.alphacoders.com/846/84631.jpg" alt="images"></p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Markdown-标题语法&quot;&gt;&lt;a href=&quot;#Markdown-标题语法&quot; class=&quot;headerlink&quot; title=&quot;Markdown 标题语法&quot;&gt;&lt;/a&gt;Markdown 标题语法&lt;/h1&gt;&lt;p&gt;1、创建标题：在内容最前面添加“#”好就可以创建标题</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>One_Day.md</title>
     <link href="https://acgnliu.github.io/posts/dbff7b3c.html"/>
     <id>https://acgnliu.github.io/posts/dbff7b3c.html</id>
     <published>2022-09-18T15:06:15.000Z</published>
-    <updated>2022-09-18T15:42:36.405Z</updated>
+    <updated>2022-09-18T15:44:29.908Z</updated>
     
     <content type="html"><![CDATA[<p>实践是检验的最好方法。</p><p>。。。 此文章用于测试  。。。</p><p>`` bash<br>$ touch CNAME<br>$ echo www.yuming.top<br>```</p><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>]]></content>
     
