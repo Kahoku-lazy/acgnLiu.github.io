@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://acgnliu.github.io/posts/518e617c.html</loc>
+    
+    <lastmod>2022-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://acgnliu.github.io/posts/116d0b7e.html</loc>
     
     <lastmod>2022-10-16</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://acgnliu.github.io/</loc>
-    <lastmod>2022-10-16</lastmod>
+    <lastmod>2022-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
